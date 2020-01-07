@@ -51,7 +51,7 @@ body{
 #design{
     color: grey;
     position: absolute;
-    right: 240px;
+    right: 263px;
     top: 0px;
     font-size: 16pt;
 }
@@ -80,4 +80,27 @@ body{
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+  }
+  #show {
+    visibility: hidden;
+    height: 100px;
+    width: 100px;
+    background-image: url(https://www.freepnglogos.com/uploads/pacman-png/pacman-education-world-greater-than-less-than-with-quot-great-quot-5.png);
+  
+  }
+  #img2cange{
+    visibility: hidden;
+   
+  }
+  #gamebut{
+    background-color: rgb(251, 255, 0);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 2px;
+    cursor: pointer; 
   }
