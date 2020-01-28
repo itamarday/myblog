@@ -192,3 +192,29 @@ body{
         opacity: 1;
     }
 }
+#tasks{
+  color: blue;
+}
+table{
+  width: 100%;
+  color: white;
+}
+td{
+  width: auto;
+}
+th{
+  width: 50%;
+}
+a {
+  display: block;
+  width: 100%;
+  line-height: 2em;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  color: yellow;
+}
+a:hover {
+  color: red;
+  background: #eff;
+}

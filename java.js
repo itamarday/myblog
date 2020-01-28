@@ -44,3 +44,9 @@ $(function(){
         }, 20);
     });
 });
+function funfirst() {
+    alert("I am an alert box!");
+  }
+function funsec(){
+    
+}
